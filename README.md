@@ -36,4 +36,4 @@ Agora instale todas as dependências rodando este comando no terminal da pasta c
 pip install -r requirements.txt
 ````
 
-Dentro da aplicação haverá um arquivo chamado **workspace.json** aonde vocẽ poderá importa-lo em seu testador de rotas favorito, os dados serão persistidos **db.sqlite4**.
+Dentro da aplicação haverá um arquivo chamado **workspace.json** aonde vocẽ poderá importa-lo em seu testador de rotas favorito, os dados serão persistidos no arquivo **db.sqlite4**.
